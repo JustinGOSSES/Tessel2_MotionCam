@@ -1,6 +1,7 @@
 # Tessel2_MotionCam
 ### Playground for Connecting Tessel2 board, motion sensor, camera, etc.
 
+#### Justin Gosses, 2016
 The node_modules file isn't included here, but it resulted from npm install tessel-av.
 
 1. Started off by following the steps laid out here: https://tessel.github.io/t2-start/modules/camera.html
